@@ -1,4 +1,4 @@
-# SX.js (Beta):  Lightweight AJAX and DOM Manipulation 
+# SX.js (Beta):  Lightweight AJAX and DOM Manipulation
 
 SX.js is a tiny, dependency-free JavaScript framework that makes working with AJAX and the DOM incredibly easy.  Inspired by HTMX, it provides a clean, chainable API that lets you write concise and readable code for your front-end interactions.  Think of it as a super-streamlined way to fetch data, update your page, and add simple effects – all without the bloat of larger libraries.
 
